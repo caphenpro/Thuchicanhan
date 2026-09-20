@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Thu Chi Cá Nhân",
+  "description": "Ứng dụng quản lý thu chi cá nhân với báo cáo và biểu đồ thống kê trực quan hàng tháng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
